@@ -1,3 +1,4 @@
+# Note that this first one only has part 2's answer, since I just updated the file I used for part 1.
 f = open("inputD1.txt", "r")
 
 count = 0
